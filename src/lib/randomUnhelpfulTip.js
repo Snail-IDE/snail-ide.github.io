@@ -27,4 +27,25 @@ export const tip = [
     'me when i am waking up in the middle of the night<br/><img src="https://corsproxy.io/?https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFZyQ8-eagAAunGr%3Fformat%3Djpg%26name%3Dmedium" width="50" height="50"/>',
     'The name of Ketey IDE was inspired by an old Scratch 1.4 mod <small>(not gandi ide)</small>',
     'Infinity mods deep!'
+    'Ketey was here',
+    'I am a snail ide mod',
+    'Try Follow Me And You Will... idk',
+    'what the heck is ide snail'
+    'i learn code',
+    'wat',
+    'i will make this mod',
+    'I came!'
+    '<a style="color: lightorange;" href="https://scratch.mit.edu/users/Keyethewizard44/">Follow me on scratch for a suprise!</a>',
+    'new tips are coming',
+    'ketey ide 1.0 isnt real :(',
+    'snail ide or gaiamod'
+    'go to contriube to help me fix the errors i had',
+    'hi',
+    'use penguinmod',
+    'now 50 tips'
+    'look at numberblock 3!',
+    'i cant use blox ide :(',
+    'my dad thinks im making tips',
+    'pls use this mod'
+    'More Tips Soon!'
 ];
