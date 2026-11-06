@@ -54,17 +54,17 @@ const Credits = () => (
     <main className={styles.main}>
         <header className={styles.headerContainer}>
             <h1 className={styles.headerText}>
-                Snail IDE Credits
+                Ketey IDE Credits
             </h1>
         </header>
         <section>
-            <h1>Snail IDE</h1>
+            <h1>Ketey IDE</h1>
         </section>
         <section>
             <h2>Thank you</h2>
             <p>
-                Without TurboWarp and PenguinMod, Snail IDE may have never existed.
-                Thank you to everyone who worked on Scratch, TurboWarp, and PenguinMod
+                Without TurboWarp, PenguinMod and Snail IDE, Ketey IDE may have never existed.
+                Thank you to everyone who worked on Scratch, TurboWarp, PenguinMod and Snail IDE
                 you have made many people finally be able to make whatever they can imagine.
             </p>
             <a href="https://scratch.mit.edu/donate">
@@ -77,14 +77,14 @@ const Credits = () => (
             <h2>Developers</h2>
             <b>Fun Fact: Snail IDE was originally made only by @Mr_rudy/nmsderp, but he still makes a majority of the commits! Eventually, BA4X joined the dev team. Then, @o97doge/ACat/someCatInTheWorld joined the dev team as well, after making a bunch of useful pull requests.</b>
             <p>
-                Snail IDE is made by a small bunch of developers.
+                Ketey IDE is made by a small bunch of developers.
                 A list is below, but you can also check <a href="https://github.com/orgs/Snail-IDE/people">our GitHub</a> incase this one is out of date.
             </p>
             <UserList users={UserData.snDev} />
             <p><i>The list order is randomized on each refresh.</i></p>
             <h2>Contriubuters</h2>
             <p>
-                Snail IDE is made by a small bunch of developers, but people will sometimes contribute!
+                Ketey IDE is made by a small bunch of developers, but people will sometimes contribute!
             </p>
             <UserList users={UserData.snContributeCodeBerg} />
             <p><i>The list order is randomized on each refresh.</i></p>
@@ -97,7 +97,7 @@ const Credits = () => (
         </section>
         <section>
             <h2>Vercel</h2>
-            <p>We currently use <a href="https://vercel.com/">Vercel</a> to host Snail IDE.</p>
+            <p>We currently use <a href="https://vercel.com/">Vercel</a> to host Ketey IDE.</p>
             <a href="https://vercel.com/">
                 <img
                     src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"
@@ -107,7 +107,7 @@ const Credits = () => (
             </a>
             <h2>Domain Provider</h2>
             <p>
-                <a href="https://snail-ide.com">snail-ide.com</a> is provided by <a href="https://scratch.mit.edu/users/dumorando/">dumorando</a>
+                <a href="https://ketey-ide.com">ketey-ide.com</a> is provided by <a href="https://scratch.mit.edu/users/dumorando/">dumorando</a>
             </p>
             <h2>Sound Effects</h2>
             <p>
@@ -118,7 +118,7 @@ const Credits = () => (
             </p>
         </section>
         <section>
-            <h1>PenguinMod, TurboWarp and Snail IDE</h1>
+            <h1>PenguinMod, TurboWarp, Snail IDE and Ketey IDE </h1>
         </section>
         <section>
             <h2>Extensions</h2>
