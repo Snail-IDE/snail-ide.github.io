@@ -28,4 +28,8 @@ export const tip = [
     'The name of Ketey IDE was inspired by an old Scratch 1.4 mod <small>(not gandi ide)</small>',
     'Infinity mods deep!'
     'umm new tip'
+    'making the home',
+    'help me',
+    'how to not get xes'
+    'hi'
 ];
