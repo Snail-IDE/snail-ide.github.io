@@ -19,7 +19,7 @@ export const tip = [
     "Blud why r u reading this tip 💀💀💀",
     "Dogs are cool.",
     "Suprising fact: Ketey IDE used to have inconsistent coloring. :O",
-    "T̸̮͎̿̏̇̾̑̒̑͐͠͠͝h̷̨͕̤͔̻̅̽̔́͋͐͑̄̈́̊̈́̕͘͘͠e̷͕̺͛͌̂͑͆́̈̀̽͂̄͋̉̈́ ̶̛̦̙͋̅͑̀̀͆̈́͋̃͆̕͘͜͝͝ṡ̸̛̮̺̣̻͖̥̀̓́̊͐̆̃̍̓̋̕͘͝n̴�[...]",
+    "T̸̮͎̿̏̇̾̑̒̑͐͠͠͝h̷̨͕̤͔̻̅̽̔́͋͐͑̄̈́̊̈́̕͘͘͠e̷͕̺͛͌̂͑͆́̈̀̽͂̄͋̉̈́ ̶̛̦̙͋̅͑̀̀͆̈́͋̃͆̕͘͜͝͝dogs[...]",
     "Maybe in another universe, Dogs are he fastest animal.",
     "A dog (or was it Someone?) just ate your soul. /j (or is it?)",
     '<a style="color: lightgray;" href="https://scratch.mit.edu/users/Mr_rudy/">Mr_rudy was here.</a>',
