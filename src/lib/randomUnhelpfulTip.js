@@ -19,17 +19,17 @@ export const tip = [
     "Blud why r u reading this tip 💀💀💀",
     "Dogs are cool.",
     "Suprising fact: Ketey IDE used to have inconsistent coloring. :O",
-    "T̸̮͎̿̏̇̾̑̒̑͐͠͠͝h̷̨͕̤͔̻̅̽̔́͋͐͑̄̈́̊̈́̕͘͘͠e̷͕̺͛͌̂͑͆́̈̀̽͂̄͋̉̈́ ̶̛̦̙͋̅͑̀̀͆̈́͋̃͆̕͘͜͝͝ṡ̸̛̮̺̣̻͖̥̀̓́̊͐̆̃̍̓̋̕͘͝ṅ̴̠͈̣͈̼͎͕͇̥̥̺͚͍͙̒̇̈́͝a̵̩̮͓̭̰͊̈́̑ͅi̴̢͙̖͍̘̙̭͕̺̩̙̼͊̃̂̓̆̅̂͋ļ̸̟̻̾͐̿̈́̋̓́̽̋̅̅̿̚̕͠s̵̬̥͑͑͊͝ ̷̢͈̲̹͇̪̹̤̯̟͚͍̣̭͈̐̌̀́́̈́̚ẅ̴̧̟͚̦͇͇̲̼̜̻̗̣̣̤́̂̾̉ͅi̵̭̰̘̽̆ļ̵̮̜̥̗̞̼̼̈́̓́l̶͍͌͋̅̔͘̚ ̴̛̛̖̪̗̗̞͓̱̱̻͔͈̗̘̉̄̋̐͐͘̚͜ͅr̵̡̧̫͍̭̩͒͌̈́̎̎͒͂̇̕ḯ̴̛̛̖̜͔̖͍̦̗͇̎̿̍͜͜ŝ̵̪̗͔͍̣͙͙͓̋̾̒̈́e̸̥̠͇̲̟̭͓͊ ̶̜͕̹̺͆͒͑̊̽̉͊̓͆̆̎̃̕͝ư̵̺͔͇̖̰̹̥̗̅̉͐̋̽͋̋̿̋p̸͍̫̿̄͗̏̐̈́ͅ.̷͔̰͕͚̹͉̲̍̈́",
+    "T̸̮͎̿̏̇̾̑̒̑͐͠͠͝h̷̨͕̤͔̻̅̽̔́͋͐͑̄̈́̊̈́̕͘͘͠e̷͕̺͛͌̂͑͆́̈̀̽͂̄͋̉̈́ ̶̛̦̙͋̅͑̀̀͆̈́͋̃͆̕͘͜͝͝ṡ̸̛̮̺̣̻͖̥̀̓́̊͐̆̃̍̓̋̕͘͝n̴�[...]",
     "Maybe in another universe, Dogs are he fastest animal.",
     "A dog (or was it Someone?) just ate your soul. /j (or is it?)",
     '<a style="color: lightgray;" href="https://scratch.mit.edu/users/Mr_rudy/">Mr_rudy was here.</a>',
     'oh my god thats bad cringe',
     'me when i am waking up in the middle of the night<br/><img src="https://corsproxy.io/?https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFZyQ8-eagAAunGr%3Fformat%3Djpg%26name%3Dmedium" width="50" height="50"/>',
     'The name of Ketey IDE was inspired by an old Scratch 1.4 mod <small>(not gandi ide)</small>',
-    'Infinity mods deep!'
-    'umm new tip'
+    'Infinity mods deep!',
+    'umm new tip',
     'making the home',
     'help me',
-    'how to not get xes'
+    'how to not get xes',
     'hi'
 ];
