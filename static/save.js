@@ -132,7 +132,7 @@
     class Extension {
         getInfo() {
             return {
-                "id": "snailsavedata",
+                "id": "keteysavedata",
                 "name": "Save Data",
                 "color1": "#1c9c31",
                 "color2": "#006900",
@@ -171,7 +171,7 @@
         }
     });
     Extension.prototype[`colorsave`] = (args, util) => {
-        localStorage.setItem("SNAIL-IDE-SAVE-EXT-" + args["colorid"], args["color"])
+        localStorage.setItem("KETEY-IDE-SAVE-EXT-" + args["colorid"], args["color"])
     };
 
     blocks.push({
