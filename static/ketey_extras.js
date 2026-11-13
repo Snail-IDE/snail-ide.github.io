@@ -69,9 +69,9 @@ class SnailExtras {
         })
         .catch((error) => {
           console.error(error);
-          return 'Uh oh! Something went wrong.';
+          return 'Uh oh! Something went wrong. Contact and screenshot this to Keyethewizard44 on Scratch.';
         });
     }
     
   }
-  Scratch.extensions.register(new SnailExtras());
+  Scratch.extensions.register(new KeteyExtras());
