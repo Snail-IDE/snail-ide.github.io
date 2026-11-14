@@ -39,4 +39,11 @@ export const tip = [
     'Best bug report: screenshot, vibes, and a prayer.',
     'New tip: the server is not down, it is just sleeping.',
     'Still reading tips? You deserve a sticker.'
+    'lol.',
+    'whats 5 plus 2.',
+    'Tip: The owner of Ketey IDE Was '<a style="color: lightgray;" href="https://scratch.mit.edu/users/Keyethewizard44/">KTW44..</a>'.',
+    'fork.',
+    'yeuk yeuk for 1 million years.',
+    'IDE Snail is not real. Ignore it now.',
+    'yes a tip.'
 ];
