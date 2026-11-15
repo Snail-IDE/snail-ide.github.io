@@ -409,8 +409,9 @@ class Interface extends React.Component {
                                 <p>
                                     <FormattedMessage
                                         // eslint-disable-next-line max-len
-                                        defaultMessage="Snail IDE is a mod of Penguinmod to add new blocks and features either in extensions or in Snail IDE's main toolbox. PenguinMod is a TurboWarp mod that adds features for advanced use. Try it out by choosing an uploaded project below or making your own in the editor."
-                                        description="Description of PenguinMod and TurboWarp"
+                                        defaultMessage="[Snail IDE](snail-ide.js.org) is a mod of (Penguinmod)[studio.penguinmod.com] to add new blocks and features either in extensions or in Snail IDE's main toolbox. [PenguinMod](studio.penguinmod.com) is a [TurboWarp](turbowarp.org) 
+                                        mod that adds features for advanced use. Try it out by choosing an uploaded project below or making your own in the editor. [TurboWarp](turbowarp.org) is a [Scratch](scratch.mit.edu) mod that compiles projects to JavaScript to make them run really fast."
+                                        description="Description of Snail IDE and PenguinMod and TurboWarp and Scratch Expanded"
                                         id="tw.home.description"
                                     />
                                 </p>
